@@ -11,7 +11,7 @@ import {
     TOGGLE_CART
 } from '../utils/actions';
 
-// create a ssample of what our global state will look likee
+// create a sample of what our global state will look likee
 const initialState = {
     products: [],
     categories: [{ name: 'Food' }],
