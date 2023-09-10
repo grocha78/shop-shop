@@ -1,0 +1,10 @@
+{
+  "error": {
+    "code": "parameter_unknown",
+    "doc_url": "https://stripe.com/docs/error-codes/parameter-unknown",
+    "message": "Received unknown parameters: unit_amount, product",
+    "param": "unit_amount",
+    "request_log_url": "https://dashboard.stripe.com/test/logs/req_P43fXZhaLfj6qp?t=1680035985",
+    "type": "invalid_request_error"
+  }
+}
